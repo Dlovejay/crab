@@ -25,7 +25,7 @@
 <div class="login-box">
     <form class="layui-form layui-form-pane" method="get" action="">
         <div class="layui-form-item">
-            <h3>后台登录系统</h3>
+            <h3>后台登录系统1</h3>
         </div>
         <div class="layui-form-item">
             <label class="layui-form-label">账号：</label>
